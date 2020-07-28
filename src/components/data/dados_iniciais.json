@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "titulo": "Shounen",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Animes Shounen",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "O Amor está no ar!Prepare a pipoca e refrigerante Kaguya sama esta de volta!",
+          "url": "https://www.youtube.com/watch?v=QBn7boksylQ"
+        },
+        {
+          "titulo": "Noragami",
+          "url": "https://www.youtube.com/watch?v=aZenmeRytEM"
+        },
+        {
+          "titulo": "Attack on Titan 1°Temp",
+          "url": "https://www.youtube.com/watch?v=AgBUP8TJqV8"
+        },
+        {
+          "titulo": "Boku no Hero 2°Temp",
+          "url": "https://www.youtube.com/watch?v=JVu7-XSI_OM"
+        },
+        {
+          "titulo": "Naruto Silhoute",
+          "url": "https://www.youtube.com/watch?v=zVgKnfN9i34"
+        },
+        {
+          "titulo": "Bleach abertura 7°temp",
+          "url": "https://www.youtube.com/watch?v=OvahxFH7IGg"
+        },
+        {
+          "titulo": "Gundam wing 1° temp",
+          "url": "https://www.youtube.com/watch?v=oNJ4aBoRipg"
+        },
+        {
+          "titulo": "Dragon Ball Z - Opening",
+          "url": "https://www.youtube.com/watch?v=yWgWhuN8wc4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Romance e Drama",
+      "cor": "#e63946",
+      "link_extra": {
+        "text": "Romances e Drama",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "April you lie",
+          "url": "https://www.youtube.com/watch?v=5_iuNaULT5k"
+        },
+        {
+          "titulo": "Kimi no wa",
+          "url": "https://www.youtube.com/watch?v=nLhKXh6sJtk"
+        },
+        {
+          "titulo": "Weathering With you",
+          "url": "https://www.youtube.com/watch?v=Q6iK6DjV_iE"
+        },
+        {
+          "titulo": "Nana",
+          "url": "https://www.youtube.com/watch?v=BUyBEmpsAww"
+        }, 
+        {
+          "titulo": "Toradora 1° temp",
+          "url": "https://www.youtube.com/watch?v=Y3Xmzu0OtS8"
+        }
+      ]
+    },
+    {
+      "titulo": "Musicas instrumentais de anime",
+      "cor": "#283d3b",
+      "link_extra": {
+        "text": "Musicas Relaxantes para Dia a dia",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Boku no hero Instrumental",
+          "url": "https://www.youtube.com/watch?v=K9840msu1CM"
+        },
+        {
+          "titulo": "Sword Art Online Epic Batle",
+          "url": "https://www.youtube.com/watch?v=n0AY4ebPy4w"
+        },
+        {
+          "titulo": "Attack on Titan- instrumental",
+          "url": "https://www.youtube.com/watch?v=pgA5D2p-jho"
+        },
+        {
+          "titulo": "Tokyo Ghoul instrumental",
+          "url": "https://www.youtube.com/watch?v=UtuQPxGxa-k"
+        }
+      ]
+    },
+    {
+      "titulo": "Geradores de conteudo",
+      "cor": "#fe7f2d",
+      "text":"Area Informativa dos Animes",
+      "videos": [
+        {
+          "titulo": "15 Animes DESCONHECIDOS PARA MARATONAR",
+          "url": "https://www.youtube.com/watch?v=djIzO1xFfL8"
+        },
+        {
+          "titulo": "VELHO BROLY OU NOVO BROLY, - QUEM É O MAIS FORTE?",
+          "url": "https://www.youtube.com/watch?v=87YE99GzVGw"
+        },
+        {
+          "titulo": "SOLO LEVELING é BOM MESMO?!",
+          "url": "https://www.youtube.com/watch?v=GlQ3sYJyBTE"
+        },
+        {
+          "titulo": "ENDEAVOR vs NOUMU é sobre um homem lutando com seus próprios demônios",
+          "url": "https://www.youtube.com/watch?v=f0d4fXwLIdo"
+        }
+      ]
+    },
+    {
+      "titulo": "Japão",
+      "cor": "#ffca3a",
+      "link_extra": {
+        "text": "Tudo sobre o Japão",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "A maior fazenda de Wasabi do Japão (大王わさび農場) - Japão Nosso De Cada Dia",
+          "url": "https://www.youtube.com/watch?v=e0nsviHGDKY"
+        },
+        {
+          "titulo": "RODÍZIO DE MORANGOS NO JAPÃO - Japão Nosso De Cada Dia",
+          "url": "https://www.youtube.com/watch?v=lUCgKXXahss"
+        },
+        {
+          "titulo": "SUSHI DE ESTEIRA - Japão Nosso De Cada Dia",
+          "url": "https://www.youtube.com/watch?v=B6do7xeQvlk"
+        },
+        {
+          "titulo": "MACARRÃO DE TOFU GELADO (SOUMEN) - Japão Nosso De Cada Dia",
+          "url": "https://www.youtube.com/watch?v=0sBBahVwmJ0"
+        },
+        {
+          "titulo": "CAFÉ DA MANHÃ JAPONÊS: TAMAGO KAKE GOHAN - Japão Nosso De Cada Dia",
+          "url": "https://www.youtube.com/watch?v=LKI0NM437x4"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos de anime",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Lançamentos de jogos de Anime",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "One Piece World seeker",
+          "url": "https://www.youtube.com/watch?v=axEqmAIMkGA"
+        },
+        {
+          "titulo": "Naruto ninja Storm 4",
+          "url": "https://www.youtube.com/watch?v=HuhZANdPZ64"
+        },
+        {
+          "titulo": "Cavaleiros do Zodiaco",
+          "url": "https://www.youtube.com/watch?v=I8htcio9E3Y"
+        },
+        {
+          "titulo": "Xenogears",
+          "url": "https://www.youtube.com/watch?v=mZgNuu4r4dI"
+        },
+        {
+          "titulo": "Samurai Showdown",
+          "url": "https://www.youtube.com/watch?v=9l25eIOnhqA"
+        }
+      ]
+    }
+  ]
+}
