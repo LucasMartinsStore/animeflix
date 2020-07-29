@@ -16,7 +16,7 @@ function RegisterCategory() {
             />
 
             <button>
-              Register
+              Register Now
             </button>
             </label>
            <Link to="/">
