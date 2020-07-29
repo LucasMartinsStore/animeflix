@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Shounen",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "/",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Animes Shounen",
@@ -10,7 +10,7 @@
       },
       "videos": [
         {
-          "titulo": "O Amor está no ar!Prepare a pipoca e refrigerante Kaguya sama esta de volta!",
+          "titulo": "O Amor está no ar!Prepare a pipoca e o refrigerante Kaguya sama está de volta!",
           "url": "https://www.youtube.com/watch?v=QBn7boksylQ"
         },
         {
@@ -100,9 +100,9 @@
       ]
     },
     {
-      "titulo": "Geradores de conteudo",
+      "titulo": "Geradores de conteúdo",
       "cor": "#fe7f2d",
-      "text":"Area Informativa dos Animes",
+      "text":"Área Informativa dos Animes",
       "videos": [
         {
           "titulo": "15 Animes DESCONHECIDOS PARA MARATONAR",

@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
-  font-family: 'Cinzel', serif;}
+  font-family: 'Cinzel', serif;
+}
 
 :root {
   --primary: #2A7AE4;
@@ -11,6 +12,7 @@
   --white: #FFFFFF;
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
+  --bg-color: #4a4e69;
 }
 
 html,
@@ -22,3 +24,9 @@ body {
 a {
   color: inherit;
 } 
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
